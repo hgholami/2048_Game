@@ -1,5 +1,8 @@
 # Houman's 2048 Game
 
+##
+This is the final project for the TECA-6400 - Data Structures course in BCIT's Technical Arts program. 
+
 ## Getting Started
 
 1. Install fontconfig `sudo apt install fontconfig`
