@@ -8,8 +8,8 @@ This is the final project for the TECA-6400 - Data Structures course in BCIT's T
 1. Install fontconfig `sudo apt install fontconfig`
 2. Create a virtual environment for development `python -m venv .venv`
 3. Activate the environment `source .venv/bin/activate`
-4. Install the requirements `pip install -r requirements.txt`
-5. Start the application `python -m Game` from directory `2048/`
+6. Install the requirements `pip install -r ./2048/requirements.txt`
+7. Start the application `python -m Game` from directory `2048/`
 
 ## Classes
 - Game
